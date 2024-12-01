@@ -1,10 +1,10 @@
 {
-  "name": "SILENT-SOBX-MD",
+  "name": "👑RAHUL-PANCHAL-BOY👑",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SILENT-SOBX-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name RAHUL-PANCHAL",
     "stop": "pm2 stop SILENT-SOBX-MD",
     "restart": "pm2 restart SILENT-SOBX-MD"
   },
